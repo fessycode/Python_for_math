@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module print out the volume and the surface area of sphere
+The module print out the volume and the surface area of sphere
 """
 import math
 
